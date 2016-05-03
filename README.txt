@@ -11,4 +11,4 @@ There are a few dependencies, but I doubt you don't already have them installed:
 
     https://github.com/pybrain/pybrain/wiki/Dependencies
     
-Project3.py is executable python file that meets the project specs
+Project3.py is the executable python file that meets the project specs
